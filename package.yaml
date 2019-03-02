@@ -32,7 +32,6 @@ library:
   - directory
   - formatting
   - mtl
-  - servant
   - wl-pprint-text
 
 tests:
